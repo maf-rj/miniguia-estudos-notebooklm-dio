@@ -30,7 +30,7 @@
 - [🚀 Próximos Passos](#-próximos-passos)
 - [📂 Estrutura do Repositório](#-estrutura-do-repositório)
 - [🛠️ Tecnologias Utilizadas](#️-tecnologias-utilizadas)
-- [👨‍💻 Sobre o Autor](#-sobre-o-autor)
+- [👨‍💻 Sobre o Autor](#%E2%80%8D-sobre-o-autor)
 - [📄 Licença](#-licença)
 - [🙏 Agradecimentos](#-agradecimentos)
 
