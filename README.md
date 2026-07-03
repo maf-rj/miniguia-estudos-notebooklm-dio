@@ -11,10 +11,21 @@
 
 ---
 
+## ✨ Destaques do Projeto
+
+- 📚 Curadoria baseada em fontes oficiais (Gov.br, Receita Federal e Sebrae)
+- 🤖 Aplicação prática do NotebookLM para pesquisa e síntese de conhecimento
+- 🧠 Engenharia de Prompts com exemplos reais e refinamento iterativo
+- 📖 Miniguia de Estudo com glossário, comparativos e prompts reutilizáveis
+- 📂 Documentação técnica em Markdown pronta para publicação no GitHub
+
+---
+
 ## 📑 Índice
 
 - [📖 Sobre o Projeto](#-sobre-o-projeto)
 - [🎯 Objetivos](#-objetivos)
+- [🎯 Público-alvo](#-público-alvo)
 - [🚀 Competências Desenvolvidas](#-competências-desenvolvidas)
 - [🏆 Resultados Obtidos](#-resultados-obtidos)
 - [🗓️ Linha do Tempo](#️-linha-do-tempo)
@@ -26,12 +37,12 @@
 - [🔀 Fluxograma da Migração CLT → PJ → MEI](#-fluxograma-clt--pj--mei)
 - [📚 Glossário](#-glossário)
 - [🤖 Prompts Reutilizáveis](#-prompts-reutilizáveis)
+- [⚠️ Aviso Importante](#-aviso-importante)
 - [💭 Considerações Finais](#-considerações-finais)
 - [🚀 Próximos Passos](#-próximos-passos)
 - [📂 Estrutura do Repositório](#-estrutura-do-repositório)
 - [🛠️ Tecnologias Utilizadas](#️-tecnologias-utilizadas)
 - [👨‍💻 Sobre o Autor](#%E2%80%8D-sobre-o-autor)
-- [📄 Licença](#-licença)
 - [🙏 Agradecimentos](#-agradecimentos)
 
 ---
@@ -40,15 +51,13 @@
 
 Este projeto foi desenvolvido durante o bootcamp da **DIO** com o objetivo de aplicar os conhecimentos de **Inteligência Artificial Generativa** utilizando o **NotebookLM** como ferramenta de pesquisa, organização de conhecimento e construção de materiais técnicos.
 
-O tema escolhido foi:
+## 📌 Tema do Estudo
 
-# **Orientador de Migração de Carreira: CLT para PJ e/ou MEI**
+**Orientador de Migração de Carreira: CLT para PJ e/ou MEI**
 
-A mudança do regime de contratação é uma decisão que envolve aspectos financeiros, tributários, jurídicos e estratégicos.
+Este estudo foi desenvolvido para compreender os aspectos tributários, financeiros e estratégicos envolvidos na migração do regime de contratação **CLT** para **Pessoa Jurídica (PJ)** ou **Microempreendedor Individual (MEI)**.
 
-Por esse motivo, este projeto reúne informações provenientes de fontes oficiais para apoiar profissionais que desejam compreender melhor as diferenças entre os regimes **CLT**, **Pessoa Jurídica (PJ)** e **Microempreendedor Individual (MEI)**.
-
-Mais do que comparar modelos de contratação, o estudo busca desenvolver senso crítico na interpretação das informações geradas por Inteligência Artificial, reforçando a importância da validação em fontes oficiais.
+O conteúdo foi consolidado utilizando o NotebookLM, com base em fontes oficiais, permitindo a construção de um material de consulta organizado, confiável e orientado à tomada de decisão.
 
 ---
 
@@ -69,60 +78,76 @@ Este projeto possui os seguintes objetivos:
 
 ---
 
-# 🚀 Competências Desenvolvidas
+# 🎯 Público-alvo
 
-Durante a construção deste projeto foram exercitadas competências como:
+Este projeto foi desenvolvido para auxiliar:
 
-| Competência           | Aplicada |
-| --------------------- | :------: |
-| NotebookLM            |     ✅    |
-| IA Generativa         |     ✅    |
-| Engenharia de Prompts |     ✅    |
-| Curadoria de Fontes   |     ✅    |
-| Markdown              |     ✅    |
-| GitHub                |     ✅    |
-| Pesquisa Técnica      |     ✅    |
-| Documentação          |     ✅    |
-| Pensamento Crítico    |     ✅    |
+- profissionais CLT que desejam migrar para PJ ou MEI;
+- profissionais de Tecnologia da Informação;
+- analistas de dados;
+- consultores e prestadores de serviços;
+- empreendedores em início de atividade;
+- estudantes interessados em tributação e empreendedorismo;
+- participantes do desafio NotebookLM da DIO.
 
 ---
 
-## 🎯 Resultados Obtidos
+# 🚀 Competências Desenvolvidas
 
-Ao final deste projeto foi possível:
+Durante a construção deste projeto foram desenvolvidas competências técnicas e analíticas relacionadas ao uso de Inteligência Artificial aplicada ao estudo e documentação.
 
-- compreender diferenças entre CLT, PJ e MEI;
-- analisar impactos tributários;
-- aprender o funcionamento do Fator R;
-- calcular remuneração PJ equivalente à CLT;
-- desenvolver habilidades em Engenharia de Prompts;
-- utilizar o NotebookLM como ferramenta de estudo;
-- produzir documentação técnica em Markdown para o GitHub.
+| Competência | Aplicação no Projeto |
+|-------------|----------------------|
+| NotebookLM | Organização das fontes e geração do conhecimento |
+| IA Generativa | Apoio à pesquisa e síntese de informações |
+| Engenharia de Prompts | Construção e refinamento de consultas |
+| Curadoria de Fontes | Seleção de conteúdos oficiais e confiáveis |
+| Markdown | Documentação técnica do projeto |
+| GitHub | Publicação e versionamento do repositório |
+| Pesquisa Técnica | Consulta de legislação e materiais oficiais |
+| Documentação | Estruturação do README e do Miniguia |
+| Pensamento Crítico | Validação das respostas geradas pela IA |
+
+---
+
+# 🏆 Resultados Obtidos
+
+Ao final deste projeto foi possível alcançar os seguintes resultados:
+
+| Resultado | Status |
+|-----------|:------:|
+| Comparar os regimes CLT, PJ e MEI | ✅ |
+| Compreender o funcionamento do Simples Nacional | ✅ |
+| Estudar o impacto do Fator R | ✅ |
+| Entender os principais tributos envolvidos na migração | ✅ |
+| Aprender técnicas de precificação para atuação como PJ | ✅ |
+| Desenvolver habilidades em Engenharia de Prompts | ✅ |
+| Utilizar o NotebookLM como ferramenta de estudo | ✅ |
+| Produzir documentação técnica em Markdown | ✅ |
+| Organizar um Miniguia de Estudo para consultas futuras | ✅ |
+| Consolidar um projeto completo para publicação no GitHub | ✅ |
 
 ---
 
 # 🗓️ Linha do Tempo
 
-```text
-Escolha do tema
-        │
-        ▼
-Pesquisa das fontes
-        │
-        ▼
-NotebookLM
-        │
-        ▼
-Testes de Prompts
-        │
-        ▼
-Refinamento
-        │
-        ▼
-Miniguia
-        │
-        ▼
-README GitHub
+```mermaid
+timeline
+    title Desenvolvimento do Projeto
+
+    Escolha do tema : Definição do assunto de estudo
+
+    Curadoria das fontes : Seleção de materiais oficiais
+
+    NotebookLM : Organização do caderno temático
+
+    Engenharia de Prompts : Testes e refinamentos
+
+    Validação : Comparação das respostas com as fontes
+
+    Consolidação : Criação do Miniguia de Estudo
+
+    GitHub : Publicação do README
 ```
 
 ---
@@ -258,25 +283,15 @@ E --> F[README GitHub]
 
 ---
 
-# 🧠 Introdução à Engenharia de Prompts
-
-Após selecionar as fontes, iniciou-se a etapa de exploração do NotebookLM utilizando diferentes estratégias de prompts.
-
-O objetivo não era apenas obter respostas, mas compreender como pequenas mudanças na formulação das perguntas influenciam diretamente a qualidade dos resultados.
-
-Durante o processo, foram realizados testes com diferentes níveis de detalhamento, restrições de contexto e solicitações de exemplos práticos.
-
-Esses experimentos permitiram identificar boas práticas para construção de prompts mais precisos, além de evidenciar situações em que foi necessário complementar as fontes para obter respostas mais completas.
-
----
-
 # 🧠 Engenharia de Prompts
 
-Um dos principais objetivos deste projeto foi explorar o potencial do NotebookLM por meio da Engenharia de Prompts, utilizando perguntas estrategicamente elaboradas para extrair respostas contextualizadas, fundamentadas nas fontes adicionadas ao caderno.
+## Introdução
 
-Durante o estudo, diferentes abordagens foram testadas para compreender como a qualidade dos prompts influencia diretamente a precisão, profundidade e confiabilidade das respostas geradas pela IA.
+Após a seleção e organização das fontes oficiais no NotebookLM, iniciou-se a etapa de experimentação com diferentes estratégias de prompts.
 
-Além de buscar informações, houve uma preocupação constante em validar os resultados, comparar interpretações e identificar limitações da ferramenta, especialmente em temas relacionados à legislação e tributação.
+O objetivo não era apenas obter respostas, mas compreender como pequenas alterações na formulação das perguntas influenciam diretamente a qualidade, profundidade e confiabilidade das informações geradas pela IA.
+
+Durante esse processo, foram realizados testes utilizando diferentes níveis de contexto, restrições e formatos de resposta, permitindo identificar boas práticas para elaboração de prompts mais eficientes e fundamentados nas fontes disponíveis.
 
 ---
 
@@ -846,6 +861,16 @@ Crie um checklist completo para um profissional que pretende migrar de CLT para 
 
 ---
 
+# ⚠️ Aviso Importante
+
+Este projeto possui finalidade exclusivamente educacional.
+
+As informações apresentadas foram elaboradas com base em fontes oficiais disponíveis durante o desenvolvimento do estudo. Entretanto, normas tributárias, trabalhistas e fiscais podem sofrer alterações ao longo do tempo.
+
+Antes de tomar decisões relacionadas à migração de regime de contratação, abertura de empresa ou planejamento tributário, recomenda-se consultar um contador ou advogado especializado e verificar sempre a legislação vigente.
+
+---
+
 # 💭 Considerações Finais
 
 O desenvolvimento deste projeto demonstrou que a Inteligência Artificial pode ser uma importante aliada no processo de aprendizagem quando utilizada de forma crítica e apoiada por fontes confiáveis.
@@ -877,22 +902,27 @@ Como evolução deste projeto, podem ser explorados temas complementares, como:
 ```text
 /
 ├── README.md
-├── LICENSE
 └── assets/
-    ├── notebooklm.png
-    ├── comparativo-clt-pj-mei.png
-    └── fluxo-migracao.png
+    ├── banner.png
+    ├── fluxo-notebooklm.png
+    ├── linha-do-tempo.png
+    ├── fluxo-clt-pj-mei.png
+    └── comparativo-clt-pj-mei.png
 ```
 
 ---
 
 # 🛠️ Tecnologias Utilizadas
 
-- NotebookLM
-- Markdown
-- Git
-- GitHub
-- Inteligência Artificial Generativa
+| Tecnologia | Finalidade |
+|------------|------------|
+| NotebookLM | Organização e consulta do conhecimento |
+| Markdown | Documentação técnica |
+| Git | Controle de versão |
+| GitHub | Publicação do projeto |
+| Mermaid | Diagramas e fluxogramas |
+| IA Generativa | Apoio à pesquisa e síntese das informações |
+| Fontes Oficiais (Gov.br e Sebrae) | Base de conhecimento do NotebookLM |
 
 ---
 
@@ -900,20 +930,24 @@ Como evolução deste projeto, podem ser explorados temas complementares, como:
 
 **Marcos Almeida Ferreira**
 
-Analista de Dados Sênior com experiência em automação, Business Intelligence, Engenharia de Dados e Inteligência Artificial aplicada à produtividade.
+Analista de Dados Sênior com experiência em Business Intelligence, Engenharia de Dados, Automação de Processos e Inteligência Artificial aplicada à produtividade.
 
-- LinkedIn: https://www.linkedin.com/in/maf-rj/
-- GitHub: https://github.com/maf-rj
+### Especialidades
+
+- 📊 Business Intelligence
+- 📈 Data Analytics
+- ☁️ Google Cloud Platform (GCP)
+- 🤖 Inteligência Artificial Generativa
+- ⚙️ Automação de Processos
+- 🗄️ BigQuery e SQL
+- 📑 Documentação Técnica
+
+### Contatos
+
+- 💼 LinkedIn: https://www.linkedin.com/in/maf-rj/
+- 💻 GitHub: https://github.com/maf-rj
 
 --
-
-# 📄 Licença
-
-Este projeto está licenciado sob a licença **MIT**.
-
-Sinta-se à vontade para utilizá-lo como referência para estudos e projetos pessoais, respeitando os termos da licença.
-
----
 
 # 🙏 Agradecimentos
 
