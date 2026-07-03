@@ -37,7 +37,7 @@
 - [🔀 Fluxograma da Migração CLT → PJ → MEI](#-fluxograma-clt--pj--mei)
 - [📚 Glossário](#-glossário)
 - [🤖 Prompts Reutilizáveis](#-prompts-reutilizáveis)
-- [⚠️ Aviso Importante](#-aviso-importante)
+- [⚠️ Aviso Importante](##%EF%B8%8F-aviso-importante)
 - [💭 Considerações Finais](#-considerações-finais)
 - [🚀 Próximos Passos](#-próximos-passos)
 - [📂 Estrutura do Repositório](#-estrutura-do-repositório)
