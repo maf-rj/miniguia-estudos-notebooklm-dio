@@ -7,7 +7,7 @@
 ![DIO](https://img.shields.io/badge/DIO-Desafio%20de%20Miniguia%20de%20Estudo%20NotebookLM-blueviolet)
 ![Licença](https://img.shields.io/badge/license-MIT-green)
 
-> Projeto desenvolvido como parte do desafio prático da **DIO**, utilizando o **NotebookLM** como ferramenta de apoio ao estudo, curadoria de conhecimento e documentação técnica.
+> Projeto desenvolvido como parte do desafio da **DIO**, utilizando o NotebookLM como ferramenta de pesquisa, curadoria de fontes, Engenharia de Prompts e documentação técnica.
 
 ---
 
@@ -947,7 +947,7 @@ Analista de Dados Sênior com experiência em Business Intelligence, Engenharia 
 - 💼 LinkedIn: https://www.linkedin.com/in/maf-rj/
 - 💻 GitHub: https://github.com/maf-rj
 
---
+---
 
 # 🙏 Agradecimentos
 
