@@ -21,9 +21,9 @@
 - [📚 Curadoria de Fontes](#-curadoria-de-fontes)
 - [🔄 Fluxo do NotebookLM](#-fluxo-do-notebooklm)
 - [🧠 Engenharia de Prompts](#-engenharia-de-prompts)
-- [⚠️ Cicatrizes e Aprendizados](#️-cicatrizes-e-aprendizados)
+- [⚠️ Cicatrizes e Aprendizados(#️-cicatrizes-e-aprendizados)
 - [📖 Miniguia de Estudo](#-miniguia-de-estudo)
-- [🔀 Fluxograma da Migração CLT → PJ → MEI](#-fluxograma-da-migração-clt--pj--mei)
+- [🔀 Fluxograma da Migração CLT → PJ → MEI](#-fluxograma-da-migração-clt-→-pj-→-mei)
 - [📚 Glossário](#-glossário)
 - [🤖 Prompts Reutilizáveis](#-prompts-reutilizáveis)
 - [💭 Considerações Finais](#-considerações-finais)
@@ -238,7 +238,7 @@ Essa estratégia também demonstrou uma das principais vantagens do NotebookLM: 
 
 ---
 
-# 🔄 Fluxo NotebookLM
+# 🔄 Fluxo do NotebookLM
 
 ```mermaid
 flowchart LR
@@ -387,7 +387,7 @@ Foi gerada uma comparação financeira entre os regimes CLT e PJ, demonstrando q
 
 ---
 
-# ⚠️ Cicatrizes (Troubleshooting)
+# ⚠️ Cicatrizes e Aprendizados
 
 Ao longo do desenvolvimento do projeto, algumas limitações foram identificadas durante a utilização do NotebookLM.
 
@@ -895,6 +895,7 @@ Como evolução deste projeto, podem ser explorados temas complementares, como:
 - Inteligência Artificial Generativa
 
 ---
+
 ## 👨‍💻 Sobre o Autor
 
 **Marcos Almeida Ferreira**
