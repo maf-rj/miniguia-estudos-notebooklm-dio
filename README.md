@@ -17,7 +17,7 @@
 - 🤖 Aplicação prática do NotebookLM para pesquisa e síntese de conhecimento
 - 🧠 Engenharia de Prompts com exemplos reais e refinamento iterativo
 - 📖 Miniguia de Estudo com glossário, comparativos e prompts reutilizáveis
-- 📂 Documentação técnica em Markdown pronta para publicação no GitHub
+- 🚀 Projeto desenvolvido como parte do desafio "Criando um Miniguia de Estudos com NotebookLM" da DIO
 
 ---
 
