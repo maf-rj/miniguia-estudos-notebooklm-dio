@@ -21,9 +21,9 @@
 - [📚 Curadoria de Fontes](#-curadoria-de-fontes)
 - [🔄 Fluxo do NotebookLM](#-fluxo-do-notebooklm)
 - [🧠 Engenharia de Prompts](#-engenharia-de-prompts)
-- [⚠️ Cicatrizes e Aprendizados(#️-cicatrizes-e-aprendizados)
+- [⚠️ Cicatrizes e Aprendizados](#️-cicatrizes-e-aprendizados)
 - [📖 Miniguia de Estudo](#-miniguia-de-estudo)
-- [🔀 Fluxograma da Migração CLT → PJ → MEI](#-fluxograma-da-migração-clt-→-pj-→-mei)
+- [🔀 Fluxograma da Migração CLT → PJ → MEI](#-fluxograma-clt--pj--mei)
 - [📚 Glossário](#-glossário)
 - [🤖 Prompts Reutilizáveis](#-prompts-reutilizáveis)
 - [💭 Considerações Finais](#-considerações-finais)
@@ -896,7 +896,7 @@ Como evolução deste projeto, podem ser explorados temas complementares, como:
 
 ---
 
-## 👨‍💻 Sobre o Autor
+# 👨‍💻 Sobre o Autor
 
 **Marcos Almeida Ferreira**
 
